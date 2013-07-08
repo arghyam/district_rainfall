@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : GODDA
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2008                                                                                                                                                      
+
+2009                                                                                69.0        175.0         35.9         73.5          0.0  -100    0.0  -100
+
+2010   0.0  -100                                                       33.1   -81  212.9   -24  176.9   -26  130.5   -33   13.5   -83                     
+
+2011                                                                  255.6    50  206.4   -30  399.0    58  165.2   -27    0.0  -100                     
+
+2012   0.0  -100    0.0  -100    0.0  -100    0.0  -100    0.5   -99   76.1   -55  389.1    32   63.9   -75  152.9   -32    0.0  -100         -100    0.0  -100
+
+===============================================================================================================================================================

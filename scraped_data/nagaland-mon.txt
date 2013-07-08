@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : MON
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2008                           117.0   138    0.0  -100  206.8    27                                         152.1   -39                              0.0  -100
+
+2009                6.2   -74   41.0   -16   90.6     8   97.8   -40  145.9   -56                            164.0   -34  118.4    -4   31.0   -16        
+
+2010   0.5   -96    7.1   -70    9.0   -81                                                                   282.5   178                                  
+
+2011  33.2   153                                                                                                                                          
+
+2012   0.0  -100                                                      238.6   -12  525.2    92  419.2   136  153.5    51   93.0    50    8.0   -60        
+
+===============================================================================================================================================================
